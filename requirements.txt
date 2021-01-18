@@ -1,0 +1,7 @@
+helium
+selenium
+fastprogress
+numpy 
+pandas
+tqdm
+tabula-py
